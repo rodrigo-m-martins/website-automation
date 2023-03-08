@@ -1,5 +1,9 @@
-package org.torc;public class Main {
+package org.torc;
+
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Environment.loadConfig();
+        System.out.println(Environment.properties.get("URL"));
+
     }
 }

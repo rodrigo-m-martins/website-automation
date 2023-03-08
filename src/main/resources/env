@@ -1,0 +1,4 @@
+URL=https://duckduckgo.com
+
+SEARCH_CONTENT="The dev-friendly football API"
+EXPECTED_URL="https://www.football-data.org/"
