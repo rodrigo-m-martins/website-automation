@@ -3,7 +3,7 @@ package org.torc.driver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.torc.Environment;
+import org.torc.configuration.Environment;
 
 import java.util.concurrent.TimeUnit;
 

@@ -2,7 +2,7 @@ package org.torc.test.feature;
 
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-import org.torc.Environment;
+import org.torc.configuration.Environment;
 import org.torc.driver.Chrome;
 import org.torc.page.DuckDuckPOM;
 

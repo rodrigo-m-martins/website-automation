@@ -1,4 +1,4 @@
-package org.torc;
+package org.torc.configuration;
 
 import io.github.cdimascio.dotenv.Dotenv;
 
